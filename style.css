@@ -35,7 +35,7 @@ body a{
 .card-front{
     height: 100%;
     width: 100%;
-    background-image: url('./image.JPEG');
+    background-image: url('./image.jpeg');
     background-position: 50% 50%;
     background-size: cover;
     position:absolute;
